@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetSecondHometask", "AdoNetSecondHometask\AdoNetSecondHometask.csproj", "{0330C7CC-E29B-44AA-BD54-D29247317013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{E2D6D9CD-9459-474A-B952-3E0A1AE6E9AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0330C7CC-E29B-44AA-BD54-D29247317013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0330C7CC-E29B-44AA-BD54-D29247317013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0330C7CC-E29B-44AA-BD54-D29247317013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0330C7CC-E29B-44AA-BD54-D29247317013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D6D9CD-9459-474A-B952-3E0A1AE6E9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D6D9CD-9459-474A-B952-3E0A1AE6E9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D6D9CD-9459-474A-B952-3E0A1AE6E9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D6D9CD-9459-474A-B952-3E0A1AE6E9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E581674-B169-4B5D-B0CF-FF0A46D0568B}
+	EndGlobalSection
+EndGlobal
